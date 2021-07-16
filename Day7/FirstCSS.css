@@ -1,0 +1,39 @@
+body 
+{background-color:#f2f2f4;}
+
+img 
+{height: 200px;
+width:200px;}
+
+table 
+{border: 1px solid #000000;
+width:100%;
+}
+
+td 
+{border: 1px solid #000000;}
+
+caption {text-align: center; font-size: 200%;}
+
+th 
+{font-size: 300%;
+border: 1px solid #000000;
+font-family:Verdana, Geneva, Tahoma, sans-serif;}
+header th 
+{background-color:#8c9393; 
+color:#667292;}
+
+#logo 
+{background-color:#000000;}
+
+nav a 
+{color:#587e76}
+
+nav th 
+{background-color:#000000;}
+#t1 {background-color:#309000;}
+#t2 {background-color:#903000;}
+#hg {color:#0000ff;}
+#gc {border: 10px solid #ffff00}
+#gh {color:#000000;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
