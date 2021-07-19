@@ -11,7 +11,7 @@ table, tr, th {
     border-collapse: collapse;
 }
 #Logo {
-    background-image: url("../IMG/Logo1a.png");
+    background-image: url("IMG/Logo1a.png");
     background-size: contain;
     padding: 50px;
 }
